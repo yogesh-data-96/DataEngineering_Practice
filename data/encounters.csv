@@ -1,0 +1,7 @@
+encounter_id,patient_id,encounter_date,department,charge_amount
+E1001,P001,2026-09-01,Cardiology,12500
+E1002,P002,2026-09-02,Emergency,3200
+E1003,P003,2026-09-03,Orthopedics,8500
+E1004,P004,invalid_date,Neurology,7600
+E1005,P005,2026-09-05,Emergency,-250
+E1006,P006,2026-09-06,Cardiology,15000
